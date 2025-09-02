@@ -32,7 +32,7 @@ More details: [Quartz Cron Documentation](https://www.quartz-scheduler.net/docum
 ---
 ## Note
 - For demonstrate you can hardcode the email but its worst pratice
-- For sending email use email password not your personal gmail password
+- For sending email use app password not your personal gmail password
 
 ## Feedback
--Improvement in repo you are openly can change 
+- Improvement in repo you are openly can change 
